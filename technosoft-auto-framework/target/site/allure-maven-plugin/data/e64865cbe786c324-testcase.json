@@ -1,0 +1,53 @@
+{
+  "uid" : "e64865cbe786c324",
+  "name" : "Given I am on the launch page",
+  "title" : "Given I am on the launch page",
+  "time" : {
+    "start" : 1571847852147,
+    "stop" : 1571847852147,
+    "duration" : 0
+  },
+  "summary" : {
+    "attachments" : 0,
+    "steps" : 0
+  },
+  "failure" : null,
+  "description" : null,
+  "severity" : "NORMAL",
+  "status" : "PASSED",
+  "testId" : null,
+  "suite" : {
+    "uid" : "60ac0231ca6fc87d",
+    "name" : "Verify Daily Timeline is displayed in two hour increments",
+    "title" : "Verify Daily Timeline is displayed in two hour increments"
+  },
+  "steps" : [ ],
+  "attachments" : [ ],
+  "issues" : [ ],
+  "labels" : [ {
+    "name" : "language",
+    "value" : "JAVA"
+  }, {
+    "name" : "suite-title",
+    "value" : "Verify Daily Timeline is displayed in two hour increments"
+  }, {
+    "name" : "thread",
+    "value" : "1596@Michaels-MacBook-Pro-3.local.main(1)"
+  }, {
+    "name" : "feature",
+    "value" : "Web Project Launch"
+  }, {
+    "name" : "suite-name",
+    "value" : "Verify Daily Timeline is displayed in two hour increments"
+  }, {
+    "name" : "story",
+    "value" : "Verify Daily Timeline is displayed in two hour increments"
+  }, {
+    "name" : "framework",
+    "value" : "CucumberJVM"
+  }, {
+    "name" : "host",
+    "value" : "Michaels-MacBook-Pro-3.local"
+  } ],
+  "parameters" : [ ]
+}

@@ -1,0 +1,53 @@
+{
+  "uid" : "bffef4eb4f7ca007",
+  "name" : "Given I am on the launch page",
+  "title" : "Given I am on the launch page",
+  "time" : {
+    "start" : 1571847842329,
+    "stop" : 1571847842329,
+    "duration" : 0
+  },
+  "summary" : {
+    "attachments" : 0,
+    "steps" : 0
+  },
+  "failure" : null,
+  "description" : null,
+  "severity" : "NORMAL",
+  "status" : "PASSED",
+  "testId" : null,
+  "suite" : {
+    "uid" : "f6e562fc53b95e52",
+    "name" : "Verify the temperature timeline for an individual day",
+    "title" : "Verify the temperature timeline for an individual day"
+  },
+  "steps" : [ ],
+  "attachments" : [ ],
+  "issues" : [ ],
+  "labels" : [ {
+    "name" : "language",
+    "value" : "JAVA"
+  }, {
+    "name" : "story",
+    "value" : "Verify the temperature timeline for an individual day"
+  }, {
+    "name" : "suite-name",
+    "value" : "Verify the temperature timeline for an individual day"
+  }, {
+    "name" : "thread",
+    "value" : "1596@Michaels-MacBook-Pro-3.local.main(1)"
+  }, {
+    "name" : "feature",
+    "value" : "Web Project Launch"
+  }, {
+    "name" : "framework",
+    "value" : "CucumberJVM"
+  }, {
+    "name" : "suite-title",
+    "value" : "Verify the temperature timeline for an individual day"
+  }, {
+    "name" : "host",
+    "value" : "Michaels-MacBook-Pro-3.local"
+  } ],
+  "parameters" : [ ]
+}

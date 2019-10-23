@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite start="1571847842328" stop="1571847844251" version="1.4.15" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
+    <name>Verify the temperature timeline for an individual day</name>
+    <title>Verify the temperature timeline for an individual day</title>
+    <test-cases>
+        <test-case start="1571847842329" stop="1571847842329" status="passed">
+            <name>Given I am on the launch page</name>
+            <title>Given I am on the launch page</title>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="Michaels-MacBook-Pro-3.local"/>
+                <label name="thread" value="1596@Michaels-MacBook-Pro-3.local.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1571847843054" stop="1571847843054" status="passed">
+            <name>When I click on the temperature range for current day</name>
+            <title>When I click on the temperature range for current day</title>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="Michaels-MacBook-Pro-3.local"/>
+                <label name="thread" value="1596@Michaels-MacBook-Pro-3.local.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1571847843129" stop="1571847843129" status="passed">
+            <name>Then I verify the min temperature in the details field matches the min temperature in the temperature range</name>
+            <title>Then I verify the min temperature in the details field matches the min temperature in the temperature range</title>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="Michaels-MacBook-Pro-3.local"/>
+                <label name="thread" value="1596@Michaels-MacBook-Pro-3.local.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1571847843222" stop="1571847843222" status="passed">
+            <name>And I verify the max temperature in the details field matches the max temperature in the temperature range</name>
+            <title>And I verify the max temperature in the details field matches the max temperature in the temperature range</title>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="Michaels-MacBook-Pro-3.local"/>
+                <label name="thread" value="1596@Michaels-MacBook-Pro-3.local.main(1)"/>
+            </labels>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="story" value="Verify the temperature timeline for an individual day"/>
+        <label name="feature" value="Web Project Launch"/>
+        <label name="framework" value="CucumberJVM"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>

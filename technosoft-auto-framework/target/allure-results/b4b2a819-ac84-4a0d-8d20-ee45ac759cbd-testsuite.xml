@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite start="1571847827007" stop="1571847828693" version="1.4.15" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
+    <name>Verify the current temperature is between the lowest and highest temperature from the Daily Timeline</name>
+    <title>Verify the current temperature is between the lowest and highest temperature from the Daily Timeline</title>
+    <test-cases>
+        <test-case start="1571847827245" stop="1571847827250" status="passed">
+            <name>Given I am on the launch page</name>
+            <title>Given I am on the launch page</title>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="Michaels-MacBook-Pro-3.local"/>
+                <label name="thread" value="1596@Michaels-MacBook-Pro-3.local.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1571847828120" stop="1571847828120" status="passed">
+            <name>Then I verify current temperature is between the lowest and highest temperature from the Daily Timeline</name>
+            <title>Then I verify current temperature is between the lowest and highest temperature from the Daily Timeline</title>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="Michaels-MacBook-Pro-3.local"/>
+                <label name="thread" value="1596@Michaels-MacBook-Pro-3.local.main(1)"/>
+            </labels>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="story" value="Verify the current temperature is between the lowest and highest temperature from the Daily Timeline"/>
+        <label name="feature" value="Web Project Launch"/>
+        <label name="framework" value="CucumberJVM"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>

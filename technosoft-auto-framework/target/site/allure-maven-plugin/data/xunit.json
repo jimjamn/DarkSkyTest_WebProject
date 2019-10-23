@@ -1,0 +1,205 @@
+{
+  "time" : {
+    "start" : 1571847827245,
+    "stop" : 1571847859267,
+    "duration" : 32022
+  },
+  "testSuites" : [ {
+    "uid" : "549a395d371cf240",
+    "name" : "Verify invalid signup error message",
+    "title" : "Verify invalid signup error message",
+    "time" : {
+      "start" : 1571847859016,
+      "stop" : 1571847859267,
+      "duration" : 251
+    },
+    "statistic" : {
+      "total" : 3,
+      "passed" : 3,
+      "pending" : 0,
+      "canceled" : 0,
+      "failed" : 0,
+      "broken" : 0
+    },
+    "description" : null,
+    "testCases" : [ {
+      "uid" : "c23c1615c1076fbf",
+      "name" : "Given I am on the register page",
+      "title" : "Given I am on the register page",
+      "time" : {
+        "start" : 1571847859016,
+        "stop" : 1571847859016,
+        "duration" : 0
+      },
+      "severity" : "NORMAL",
+      "status" : "PASSED"
+    }, {
+      "uid" : "c7ff09d086032638",
+      "name" : "When I click on the register button",
+      "title" : "When I click on the register button",
+      "time" : {
+        "start" : 1571847859097,
+        "stop" : 1571847859097,
+        "duration" : 0
+      },
+      "severity" : "NORMAL",
+      "status" : "PASSED"
+    }, {
+      "uid" : "d50079bfc1c47f3c",
+      "name" : "Then I verify the error message displayed next to the email text field",
+      "title" : "Then I verify the error message displayed next to the email text field",
+      "time" : {
+        "start" : 1571847859267,
+        "stop" : 1571847859267,
+        "duration" : 0
+      },
+      "severity" : "NORMAL",
+      "status" : "PASSED"
+    } ]
+  }, {
+    "uid" : "f6e562fc53b95e52",
+    "name" : "Verify the temperature timeline for an individual day",
+    "title" : "Verify the temperature timeline for an individual day",
+    "time" : {
+      "start" : 1571847842329,
+      "stop" : 1571847843222,
+      "duration" : 893
+    },
+    "statistic" : {
+      "total" : 4,
+      "passed" : 4,
+      "pending" : 0,
+      "canceled" : 0,
+      "failed" : 0,
+      "broken" : 0
+    },
+    "description" : null,
+    "testCases" : [ {
+      "uid" : "bffef4eb4f7ca007",
+      "name" : "Given I am on the launch page",
+      "title" : "Given I am on the launch page",
+      "time" : {
+        "start" : 1571847842329,
+        "stop" : 1571847842329,
+        "duration" : 0
+      },
+      "severity" : "NORMAL",
+      "status" : "PASSED"
+    }, {
+      "uid" : "5754860ec9fa23e4",
+      "name" : "When I click on the temperature range for current day",
+      "title" : "When I click on the temperature range for current day",
+      "time" : {
+        "start" : 1571847843054,
+        "stop" : 1571847843054,
+        "duration" : 0
+      },
+      "severity" : "NORMAL",
+      "status" : "PASSED"
+    }, {
+      "uid" : "a05283ced49fbf5a",
+      "name" : "Then I verify the min temperature in the details field matches the min temperature in the temperature range",
+      "title" : "Then I verify the min temperature in the details field matches the min temperature in the temperature range",
+      "time" : {
+        "start" : 1571847843129,
+        "stop" : 1571847843129,
+        "duration" : 0
+      },
+      "severity" : "NORMAL",
+      "status" : "PASSED"
+    }, {
+      "uid" : "c248ef1f6d3a98cd",
+      "name" : "And I verify the max temperature in the details field matches the max temperature in the temperature range",
+      "title" : "And I verify the max temperature in the details field matches the max temperature in the temperature range",
+      "time" : {
+        "start" : 1571847843222,
+        "stop" : 1571847843222,
+        "duration" : 0
+      },
+      "severity" : "NORMAL",
+      "status" : "PASSED"
+    } ]
+  }, {
+    "uid" : "a6cb6e1e83ea2cda",
+    "name" : "Verify the current temperature is between the lowest and highest temperature from the Daily Timeline",
+    "title" : "Verify the current temperature is between the lowest and highest temperature from the Daily Timeline",
+    "time" : {
+      "start" : 1571847827245,
+      "stop" : 1571847828120,
+      "duration" : 875
+    },
+    "statistic" : {
+      "total" : 2,
+      "passed" : 2,
+      "pending" : 0,
+      "canceled" : 0,
+      "failed" : 0,
+      "broken" : 0
+    },
+    "description" : null,
+    "testCases" : [ {
+      "uid" : "43314eca9ffb2d02",
+      "name" : "Given I am on the launch page",
+      "title" : "Given I am on the launch page",
+      "time" : {
+        "start" : 1571847827245,
+        "stop" : 1571847827250,
+        "duration" : 5
+      },
+      "severity" : "NORMAL",
+      "status" : "PASSED"
+    }, {
+      "uid" : "8a1d3f76e87ba2dc",
+      "name" : "Then I verify current temperature is between the lowest and highest temperature from the Daily Timeline",
+      "title" : "Then I verify current temperature is between the lowest and highest temperature from the Daily Timeline",
+      "time" : {
+        "start" : 1571847828120,
+        "stop" : 1571847828120,
+        "duration" : 0
+      },
+      "severity" : "NORMAL",
+      "status" : "PASSED"
+    } ]
+  }, {
+    "uid" : "60ac0231ca6fc87d",
+    "name" : "Verify Daily Timeline is displayed in two hour increments",
+    "title" : "Verify Daily Timeline is displayed in two hour increments",
+    "time" : {
+      "start" : 1571847852147,
+      "stop" : 1571847852570,
+      "duration" : 423
+    },
+    "statistic" : {
+      "total" : 2,
+      "passed" : 2,
+      "pending" : 0,
+      "canceled" : 0,
+      "failed" : 0,
+      "broken" : 0
+    },
+    "description" : null,
+    "testCases" : [ {
+      "uid" : "e64865cbe786c324",
+      "name" : "Given I am on the launch page",
+      "title" : "Given I am on the launch page",
+      "time" : {
+        "start" : 1571847852147,
+        "stop" : 1571847852147,
+        "duration" : 0
+      },
+      "severity" : "NORMAL",
+      "status" : "PASSED"
+    }, {
+      "uid" : "da9636b230af9063",
+      "name" : "Then I verify the Daily Timeline is displayed in two hour increments",
+      "title" : "Then I verify the Daily Timeline is displayed in two hour increments",
+      "time" : {
+        "start" : 1571847852570,
+        "stop" : 1571847852570,
+        "duration" : 0
+      },
+      "severity" : "NORMAL",
+      "status" : "PASSED"
+    } ]
+  } ]
+}

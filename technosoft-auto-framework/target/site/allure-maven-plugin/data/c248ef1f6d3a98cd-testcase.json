@@ -1,0 +1,53 @@
+{
+  "uid" : "c248ef1f6d3a98cd",
+  "name" : "And I verify the max temperature in the details field matches the max temperature in the temperature range",
+  "title" : "And I verify the max temperature in the details field matches the max temperature in the temperature range",
+  "time" : {
+    "start" : 1571847843222,
+    "stop" : 1571847843222,
+    "duration" : 0
+  },
+  "summary" : {
+    "attachments" : 0,
+    "steps" : 0
+  },
+  "failure" : null,
+  "description" : null,
+  "severity" : "NORMAL",
+  "status" : "PASSED",
+  "testId" : null,
+  "suite" : {
+    "uid" : "f6e562fc53b95e52",
+    "name" : "Verify the temperature timeline for an individual day",
+    "title" : "Verify the temperature timeline for an individual day"
+  },
+  "steps" : [ ],
+  "attachments" : [ ],
+  "issues" : [ ],
+  "labels" : [ {
+    "name" : "language",
+    "value" : "JAVA"
+  }, {
+    "name" : "story",
+    "value" : "Verify the temperature timeline for an individual day"
+  }, {
+    "name" : "suite-name",
+    "value" : "Verify the temperature timeline for an individual day"
+  }, {
+    "name" : "thread",
+    "value" : "1596@Michaels-MacBook-Pro-3.local.main(1)"
+  }, {
+    "name" : "feature",
+    "value" : "Web Project Launch"
+  }, {
+    "name" : "framework",
+    "value" : "CucumberJVM"
+  }, {
+    "name" : "suite-title",
+    "value" : "Verify the temperature timeline for an individual day"
+  }, {
+    "name" : "host",
+    "value" : "Michaels-MacBook-Pro-3.local"
+  } ],
+  "parameters" : [ ]
+}

@@ -1,0 +1,53 @@
+{
+  "uid" : "d50079bfc1c47f3c",
+  "name" : "Then I verify the error message displayed next to the email text field",
+  "title" : "Then I verify the error message displayed next to the email text field",
+  "time" : {
+    "start" : 1571847859267,
+    "stop" : 1571847859267,
+    "duration" : 0
+  },
+  "summary" : {
+    "attachments" : 0,
+    "steps" : 0
+  },
+  "failure" : null,
+  "description" : null,
+  "severity" : "NORMAL",
+  "status" : "PASSED",
+  "testId" : null,
+  "suite" : {
+    "uid" : "549a395d371cf240",
+    "name" : "Verify invalid signup error message",
+    "title" : "Verify invalid signup error message"
+  },
+  "steps" : [ ],
+  "attachments" : [ ],
+  "issues" : [ ],
+  "labels" : [ {
+    "name" : "story",
+    "value" : "Verify invalid signup error message"
+  }, {
+    "name" : "language",
+    "value" : "JAVA"
+  }, {
+    "name" : "feature",
+    "value" : "Web Project Registration"
+  }, {
+    "name" : "thread",
+    "value" : "1596@Michaels-MacBook-Pro-3.local.main(1)"
+  }, {
+    "name" : "suite-title",
+    "value" : "Verify invalid signup error message"
+  }, {
+    "name" : "framework",
+    "value" : "CucumberJVM"
+  }, {
+    "name" : "host",
+    "value" : "Michaels-MacBook-Pro-3.local"
+  }, {
+    "name" : "suite-name",
+    "value" : "Verify invalid signup error message"
+  } ],
+  "parameters" : [ ]
+}

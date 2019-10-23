@@ -1,0 +1,53 @@
+{
+  "uid" : "43314eca9ffb2d02",
+  "name" : "Given I am on the launch page",
+  "title" : "Given I am on the launch page",
+  "time" : {
+    "start" : 1571847827245,
+    "stop" : 1571847827250,
+    "duration" : 5
+  },
+  "summary" : {
+    "attachments" : 0,
+    "steps" : 0
+  },
+  "failure" : null,
+  "description" : null,
+  "severity" : "NORMAL",
+  "status" : "PASSED",
+  "testId" : null,
+  "suite" : {
+    "uid" : "a6cb6e1e83ea2cda",
+    "name" : "Verify the current temperature is between the lowest and highest temperature from the Daily Timeline",
+    "title" : "Verify the current temperature is between the lowest and highest temperature from the Daily Timeline"
+  },
+  "steps" : [ ],
+  "attachments" : [ ],
+  "issues" : [ ],
+  "labels" : [ {
+    "name" : "story",
+    "value" : "Verify the current temperature is between the lowest and highest temperature from the Daily Timeline"
+  }, {
+    "name" : "language",
+    "value" : "JAVA"
+  }, {
+    "name" : "suite-name",
+    "value" : "Verify the current temperature is between the lowest and highest temperature from the Daily Timeline"
+  }, {
+    "name" : "thread",
+    "value" : "1596@Michaels-MacBook-Pro-3.local.main(1)"
+  }, {
+    "name" : "suite-title",
+    "value" : "Verify the current temperature is between the lowest and highest temperature from the Daily Timeline"
+  }, {
+    "name" : "feature",
+    "value" : "Web Project Launch"
+  }, {
+    "name" : "framework",
+    "value" : "CucumberJVM"
+  }, {
+    "name" : "host",
+    "value" : "Michaels-MacBook-Pro-3.local"
+  } ],
+  "parameters" : [ ]
+}
